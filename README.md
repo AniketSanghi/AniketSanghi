@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 
 I am a final year undergrad of Computer Science and Engineering in IIT Kanpur. I love to learn new algorithms, solve problems and explore inDepths of Systems. I am passionate about programming in general and I can code in many different languages, favorite one being Scala. It used to be C++ but once I tried Scala, Man! It is so well structured and powerful!  
 
-- 🔭 I’m currently working with Rubrik as a Software Engineering Intern
-- 🌱 I’m currently learning Algorithms and OS intricacies
-- 🤔 I’m looking for help with understanding technology
+- 🔭 I’m interned with Rubrik as a Software Engineering Intern in Summer-2020
+- 🌱 I’m currently learning Algorithms and System intricacies
+- 🤔 I’m looking for fun things to explore
 - 💬 Ask me about anything related to programming
 - 📫 How to reach me: https://aniketsanghi.github.io/
-- ⚡ Change my mind: Algorithmic questions are essential for interviews
